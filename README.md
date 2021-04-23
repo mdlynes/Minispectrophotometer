@@ -1,7 +1,7 @@
 # Minispectrophotometer
 AS7341 10 Channel  Spectrophotometer with Adafruit QTPY and OLED screen
 
-This is a super messy code cobbled together to link an Adafruit QTPy (the SAMD21 version) to a AS7341 10 Channel Spectrophotometer and 128x64 OLED screen via I2C (so no
+This is a super messy Arduino code cobbled together to link an Adafruit QTPy (the SAMD21 version) to a AS7341 10 Channel Spectrophotometer and 128x64 OLED screen via I2C (so no
 soldering).
 
 Materials:
